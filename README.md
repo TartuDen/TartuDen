@@ -37,6 +37,4 @@
 
 ---
 
-Credit: [Denys Verves](https://github.com/TartuDen)
-
 Last Edited on: 26/11/2023
