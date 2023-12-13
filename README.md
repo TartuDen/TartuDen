@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denys Verves</h1>
+<h1 align="center">Hi 👋, I'm Denys!</h1>
 <h3 align="center">Self-Taught Code Enthusiast & Aspiring Web Developer</h3>
 
 
