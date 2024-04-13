@@ -3,7 +3,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </a>
 
 - 🔭 I’m currently working on <a href="https://github.com/Pomog/ForumFFF" target="blank">Online Forum.</a> and beginning to work on <a href="https://github.com/Pomog/ChemTrack-Android" target="blank">ChemTrack-Android.</a>
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences <a href="https://github.com/TartuDen/resume/blob/main/Denys%20Verves%20CV%2011.2023.pdf" target="blank">MY CV</a>
 <br/>
-<h3 align="center" > <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > Connect with me 🤝 </h3>
 
 <p align="center">
 
