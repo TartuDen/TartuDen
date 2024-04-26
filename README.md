@@ -6,11 +6,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </a>
 
-- 🔭 I’m currently working on <a href="https://github.com/Pomog/ForumFFF" target="blank">Online Forum.</a> and beginning to work on <a href="https://github.com/Pomog/ChemTrack-Android" target="blank">ChemTrack-Android.</a>
+- 🔭 I’m currently working on <a href="https://github.com/Pomog/ForumFFF" target="blank">Online Forum.</a> and beginning to work on <a href="https://github.com/TartuDen/BMR_Generator" target="blank">BMR_Generator (an app to create production documentation for pharm industry)..</a>
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently studying at <a href="https://kood.tech/" target="blank">Kood Jõhvi</a>
 
 - 📝 I'm currently learning Golang, JS, Front and Back-End
 
