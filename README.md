@@ -12,7 +12,7 @@
 
 - 📝 I'm currently learning Golang, JS, Front and Back-End
 
-- 💬 Ask me about **Golang, Python, JS**
+- 💬 Ask me about **Python, JS**
 
 - 📫 How to reach me **denver1033@gmail.com**
 
