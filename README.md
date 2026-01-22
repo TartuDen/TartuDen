@@ -11,7 +11,7 @@
 
 - 🧠 How I build: I use **vibecoding** extensively. I’m strong at ideation, scope, and iteration — and I rely on AI tools to help with code structure and implementation.
 
-- 🧩 Interests: Python, JS, front‑end + back‑end, learning Golang.
+- 🧩 Interests: Building new apps and chasing ideas that make life easier and more interesting.
 
 - 🤝 I’m available for freelancing.
 
