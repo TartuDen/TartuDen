@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denys!</h1>
-<h3 align="center">Self‑Taught Builder • Vibecoding‑First Maker</h3>
+<h3 align="center">Vibecoder who loves building new projects.</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
