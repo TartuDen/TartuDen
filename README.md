@@ -17,8 +17,6 @@
 
 - 📫 Reach me: **denver1033@gmail.com**
 
-- 📄 My CV: <a href="https://github.com/TartuDen/resume/blob/main/Denys%20Verves%20CV%202025.pdf" target="_blank">MY CV</a>
-
 <br/>
 <h3 align="center">Connect with me.</h3>
 
