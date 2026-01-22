@@ -6,9 +6,8 @@
 </a>
 
 - 🔭 Recent work:
-  - **[Flow Chart Generator](https://github.com/TartuDen/Flow_Chart_Generator)** — Excel → Draw.io + BMR docs.
-  - **[Pixel Grinder](https://github.com/TartuDen/Pixel-Grinder)** — updated build.
-  - **[Game Forum Vibe1](https://github.com/TartuDen/Game-Forum-Vibe1)** — forum prototype.
+  - **[Pixel Grinder](https://github.com/TartuDen/PixelGrinder)** — a single-player, browser-based top-down pixel art RPG.
+  - **[Game Forum Vibe1](https://github.com/TartuDen/MMORPG_forum_vibe1)** — Game-forum prototype.
 
 - 🧠 How I build: I use **vibecoding** extensively. I’m strong at ideation, scope, and iteration — and I rely on AI tools to help with code structure and implementation.
 
