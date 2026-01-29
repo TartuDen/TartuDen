@@ -6,7 +6,7 @@
 </a>
 
 - 🔭 Recent work:
-- - **[Money Tracker](https://github.com/TartuDen/MoneyTracker)  ** — Android-only prototype for a shared family shopping + spending app.
+- - **[Money Tracker](https://github.com/TartuDen/MoneyTracker)** — Android-only prototype for a shared family shopping + spending app.
   - **[Pixel Grinder](https://github.com/TartuDen/PixelGrinder)** — a single-player, browser-based top-down pixel art RPG. Live at https://tartuden.itch.io/pixelgrinder (demo version).
   - **[Game Forum Vibe1](https://github.com/TartuDen/MMORPG_forum_vibe1)** — Live game‑forum community prototype with threads, comments, and auth. Live at https://mmorpg-forum-vibe1.vercel.app/ (frontend on Vercel; backend API on Render; PostgreSQL on Supabase).
 
