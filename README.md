@@ -16,8 +16,6 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📫 Reach me: **denver1033@gmail.com**
-
 <br/>
 <h3 align="center">Connect with me.</h3>
 
